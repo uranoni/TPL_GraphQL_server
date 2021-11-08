@@ -12,7 +12,7 @@
 	"license": "ISC",
 	"dependencies": {
 		"apollo-datasource-rest": "^0.7.0",
-		"apollo-server": "^2.10.1",
+		"apollo-server": "^2.25.3",
 		"babel-cli": "^6.26.0",
 		"babel-plugin-transform-object-rest-spread": "^6.26.0",
 		"babel-preset-env": "^1.7.0",
